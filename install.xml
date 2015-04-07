@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agent-input clean='true' temporary='true'>
+<server>
+  <repository location='.'/>
+  <repository location='http://www.ibm.com/software/repositorymanager/V85WASNDTrial'/>
+</server>
+<install>
+  <offering id='com.ibm.websphere.NDTRIAL.v85'/>
+  <offering id='com.ibm.websphere.IBMJAVA.v70' selected='false'/>
+  <offering id='com.ibm.websphere.liberty.IBMJAVA.v70' selected='false' />
+  <offering id='com.ibm.websphere.IHSILAN.v85' selected='false'/>
+  <offering id='com.ibm.websphere.APPCLIENTILAN.v85' selected='false'/>
+  <offering id='com.ibm.websphere.NDDMZTRIAL.v85' selected='false'/>
+  <offering id='com.ibm.websphere.PLGILAN.v85' selected='false'/>
+  <offering id='com.ibm.websphere.WCTILAN.v85' selected='false'/>
+  <offering id='com.ibm.websphere.W2MTKILAN.v11' selected='false'/>
+  <offering id='com.ibm.websphere.EDGELBIPV4IPV6TRIAL.v85' selected='false'/>
+  <offering id='com.ibm.websphere.PLUGCLIENTILAN.v85' selected='false'/>
+  <offering id='com.ibm.websphere.liberty.NDTRIAL.v85' selected='false'/>
+</install>
+</agent-input>
