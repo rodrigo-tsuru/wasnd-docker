@@ -18,4 +18,11 @@
   <offering id='com.ibm.websphere.PLUGCLIENTILAN.v85' selected='false'/>
   <offering id='com.ibm.websphere.liberty.NDTRIAL.v85' selected='false'/>
 </install>
+<profile id='IBM WebSphere Application Server V8.5' 
+  installLocation='/opt/IBM/WebSphere/AppServer'>
+  <data key='eclipseLocation' value='/opt/IBM/WebSphere/AppServer'/>
+  <data key='user.import.profile' value='false'/>
+  <data key='user.wasjava' value='java8'/>
+  <data key='cic.selector.nl' value='en'/>
+</profile>
 </agent-input>
